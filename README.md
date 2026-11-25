@@ -1,54 +1,43 @@
 <p align="center">
-  <img src="./profile-banner.PNG" width="100%" alt="Ali — Software Developer" />
-</p>
-<p align="center">
   <strong>SOFTWARE ENGINEERING · AI · WEB · MOBILE · BACKEND · 3D</strong>
-</p>
-<p align="center">
+  <br/>
   <em>Engineering the future through code.</em>
 </p>
 
 ⸻
 
-<h3>👨‍💻 ABOUT ME</h3>
+👨‍💻 ABOUT ME
 
 Independent software developer passionate about technology, engineering and creating digital products.
 
 I build custom applications, intelligent systems, websites, online platforms, mobile apps and interactive digital experiences.
 
-<h3>🚀 WHAT I BUILD</h3>
+🚀 WHAT I BUILD
 
 🤖 Telegram Bots
-
 Custom bots, AI assistants, interactive systems and integrations.
 
 🌐 Websites & E-commerce
-
 Modern websites, online stores and custom digital platforms.
 
 ⚡ Web Applications
-
 PWAs, dashboards, interactive platforms and browser-based tools.
 
 📱 Mobile Applications
-
 Native iOS and Android applications.
 
 🧠 AI-Powered Applications
-
 Intelligent tools, AI integrations and automation.
 
 🖥️ Backend & Infrastructure
-
 Server-side development, custom servers, deployment and self-hosted services.
 
-🎨 3D Graphics & Digital Experiences
-
+🎨 3D Graphics & Rendering
 3D modelling, digital environments, materials, shading, lighting and real-time rendering.
 
 ⸻
 
-<h3>💻 TECHNOLOGIES</h3>
+💻 TECHNOLOGIES
 
 Programming Languages
 
@@ -95,7 +84,7 @@ Backend & Infrastructure
 
 ⸻
 
-<h3>🌌 BEYOND CODE</h3>
+🌌 BEYOND CODE
 
 I believe software development is more than writing code.
 
