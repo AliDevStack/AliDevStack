@@ -1,7 +1,11 @@
 <p align="center">
-  <strong>SOFTWARE · AI · WEB · MOBILE · BACKEND · 3D</strong>
-  <br/>
-  <sub><em>Engineering the future through code.</em></sub>
+  <img src="./profile-banner.PNG" width="100%" alt="Ali — Software Developer" />
+</p>
+<p align="center">
+  <strong>SOFTWARE ENGINEERING · AI · WEB · MOBILE · BACKEND · 3D</strong>
+</p>
+<p align="center">
+  <em>Engineering the future through code.</em>
 </p>
 
 ⸻
@@ -54,7 +58,7 @@ Programming Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-343434?style=flat&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -72,8 +76,8 @@ Frameworks & Libraries
 Backend & Infrastructure
 
 <p>
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-287C78?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-BF3932?style=flat&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Server_Deployment-475569?style=flat&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Self_Hosted_Services-64748B?style=flat&logo=serverfault&logoColor=white" />
@@ -83,7 +87,7 @@ Backend & Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/RealityKit-333333?style=flat&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/RealityKit-343434?style=flat&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/Metal-555555?style=flat&logo=apple&logoColor=white" />
 </p>
 
